@@ -3,7 +3,12 @@
 
 Project aims to harness the power of machine learning to predict property resale prices in Singapore with Python Scikit-learn library.
 
-Before I go ahead to upload my Jupyter notebooks, let me first share some charts done with R ggplot on  "Tampines Resale Prices of Four-room flats Built before Year 2000" - Did we really sell our 4S unit well?
 
+In this project, we do the following:
+1. Download public housing resale data in Singapore
+2. Perform data cleaning
+3. Perform exploratory data analysis
+4. Engineer new features
+5. Apply machine learning techniques to train a model to predict housing resale prices
 
-![cover image](https://github.com/yomansg/Singapore-Property-Resale-Prices/blob/main/tampines%20resale%20prices.png)
+Get into our Jupyter notebook to see how each step was performed!
